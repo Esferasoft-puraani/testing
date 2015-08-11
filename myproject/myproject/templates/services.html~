@@ -1,0 +1,232 @@
+<!--A Design by W3layouts
+Author: W3layout
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Realist an Real_Estate Category Flat Bootstarp Resposive Website Template | About :: w3layouts</title>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Realist Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="js/jquery-1.11.1.min.js"></script>
+<!-- Custom Theme files -->
+<link href="css/style.css" rel='stylesheet' type='text/css' />
+<link href='http://fonts.googleapis.com/css?family=Grand+Hotel:400' rel='stylesheet' type='text/css'/>
+<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet:100,300,400,500,600,700,800,900' type='text/css'/>
+
+
+<link rel="stylesheet" href="fonts/css/font-awesome.min.css"/>
+
+<script type="text/javascript" src="js/jquery.fancybox.js"></script>
+<link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css" media="screen" />
+<script type="text/javascript">
+		$(document).ready(function() {
+			$('.fancybox').fancybox();
+		});
+	</script>
+</head>
+<body>
+<div class="header">
+	<div class="col-xs-4">
+	  <div class="logo">
+		<a href="index.html"><img src="images/logo.png" alt=""/></a>
+	  </div>
+	</div>
+	<div class="col-xs-8 header_right">
+	  <span class="menu"></span>
+			<div class="top-menu">
+				<ul>
+					<li><a class="active scroll" href="index.html"><i class="fa fa-home"> </i>Home</a></li>
+					<li><a href="about.html"><i class="fa fa-star"> </i> About</a></li>
+                                        <li><a href="services.html"><i class="fa fa-thumbs-up"> </i>Services</a></li>
+					<li><a href="gallery.html"><i class="fa fa-picture-o"> </i>Gallery</a></li>
+					<li><a href="contact.html"><i class="fa fa-envelope-o"> </i>Contact us</a></li>
+					<div class="clearfix"></div>
+				</ul>
+			 </div>
+			<!-- script for menu -->
+				<script>
+				$( "span.menu" ).click(function() {
+				  $( ".top-menu" ).slideToggle( "slow", function() {
+				    // Animation complete.
+				  });
+				});
+			</script>
+			<!-- script for menu -->
+	</div>
+	<div class="clearfix"> </div>
+</div>
+<div class="about_top">
+	<div class="services_wrapper">
+	    <div class="container">
+			<div class="col-lg-7 col-md-7 col-sm-6 col-xs-12">
+				<div class="services_left_part">
+					<h1>4Winds Real Estate</h1>
+					<p>
+						We provide a comprehensive solution for the complex problem of Generating, Managing and Tracking leads.
+
+						So you do what you know the best and leave to us the rest!!
+					</p>
+
+					<div class="terms_services_link">
+						<a target="_blank" href="#">
+							<i class="fa fa-clone"></i>
+							Terms and Services
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+				<div class="services_right_part">
+					<ul class="services_lead_link">
+						<li> 
+							<a href="generate_leads.html">
+								<i class="fa fa-clone"></i> 
+								Generate Leads
+							</a> 
+							<span class="new">new</span>
+							for generating leads
+						</li>						
+						<li> 
+							<a href="#">
+								<i class="fa fa-clone"></i> 
+								Track Leads
+							</a> 
+							for tracking your leads
+						</li>
+						<li> 
+							<a href="#">
+								<i class="fa fa-clone"></i>
+								Manage Leads
+							</a> 
+							for managing leads
+						</li>
+						<li> 
+							<a href="#">
+								<i class="fa fa-search"></i>
+								Get Comparables
+							</a> 
+							for getting comps
+						</li>
+						<li> 
+							<a href="#">
+								<i class="fa fa-search"></i>
+								Locate Multiple Addresses
+							</a> 
+							for locating addresses
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="about_services">
+				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+					<div class="about_services_inner">
+						<h1>Generate Leads</h1>
+						<p>
+							Generate leads on the most popular real estate websites
+						</p>
+					</div>	
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+					<div class="about_services_inner">
+						<h1>Track Leads</h1>
+						<p>
+							Track your leads through our interface. Tracking your leads provide better judgements and helps you stay ahead in the market 
+						</p>
+					</div>	
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+					<div class="about_services_inner">
+						<h1>Manage Leads</h1>
+						<p>
+							 Managing leads has never been easier. We integrate the leads management with our CRM. 
+						</p>
+					</div>	
+				</div>
+			</div>
+			<div class="services_thanks">
+				<div class="col-xs-12">
+					<h2>Thank you for choosing 4WindsRE</h2>
+				</div>
+			</div>
+       
+        	<div class="grid_7">
+	        	<div class="col-md-4 box_4">
+	        		<h4>Receive our Newsletter</h4>
+	        		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliq.</p>
+	        	    <div class="search">
+						<form>
+						   <input type="text" value=""/>
+						   <input type="submit" value="Subscribe"/>
+						</form>
+					</div>
+	        	</div>
+	        	<div class="col-md-4">
+	        		<address class="footer-addr">
+	                    totam rem aperiam, 
+	                    voluptatum deleniti , USA 
+	                    E-MAIL:
+	                    <a href="#">MAIL@DEMOLINK.ORG</a>
+
+	                    <div class="phone">
+	                        <span>(500)</span> 1254 6487
+	                    </div>
+	                </address>
+	        	</div>
+	        	<div class="col-md-2">
+	        		<ul class="list_2">
+	                    <li>
+	                        <a href="#">1st &amp; 2nd Mortgages</a>
+	                    </li>
+	                    <li>
+	                        <a href="#">Construction Loans</a>
+	                    </li>
+	                    <li>
+	                        <a href="#">Fractional Ownerships</a>
+	                    </li>
+	                    <li>
+	                        <a href="#">Home Refinancing</a>
+	                    </li>
+	                    <li>
+	                        <a href="#">Home Equity Lines</a>
+	                    </li>
+	                </ul>
+	        	</div>
+	        	<div class="col-md-2">
+	        		<ul class="list_2">
+	                    <li>
+	                        <a href="#">1st &amp; 2nd Mortgages</a>
+	                    </li>
+	                    <li>
+	                        <a href="#">Construction Loans</a>
+	                    </li>
+	                    <li>
+	                        <a href="#">Fractional Ownerships</a>
+	                    </li>
+	                    <li>
+	                        <a href="#">Home Refinancing</a>
+	                    </li>
+	                    <li>
+	                        <a href="#">Home Equity Lines</a>
+	                    </li>
+	                </ul>
+	        	</div>
+	        	<div class="clearfix"> </div>
+	        </div>
+	        <div class="clearfix"> </div>
+        </div>
+        <div class="copy">
+			<p>Copyright © <a href="#">windsre 2015</a></p>
+	    </div>
+	</div>
+</div>
+
+</body>
+</html>		
